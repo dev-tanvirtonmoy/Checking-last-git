@@ -6,3 +6,6 @@ h1 {
     background-color: red;
     color: #fff;
 }
+body {
+    overflow-x: hidden;
+}
